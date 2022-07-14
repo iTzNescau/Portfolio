@@ -261,7 +261,7 @@ section .title::after{
 }
 .services .serv-content .card ion-icon{
     font-size: 70px;
-    color: #1eacff;
+    color:#fff;
 }
 .services .serv-content .card:hover ion-icon{
     color: #fff;
@@ -443,8 +443,8 @@ section .title::after{
 .contact .contact-content .row #img {
     margin-bottom: -35px;
 }
-.contact .contact-content .row a {
-    color: white;
+.contact .contact-content .row .a{
+    color: #fff  !important;
     cursor: pointer;
     text-decoration: none;
 }
@@ -584,6 +584,7 @@ footer span a:hover{
     }
     .home .home-content .text-2{
         font-size: 70px;
+        color: #fff;
     }
     .home .home-content .text-3{
         font-size: 35px;
