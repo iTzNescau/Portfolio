@@ -1,8 +1,8 @@
 <?php
   try {
-    $servidor="127.0.0.1";
+    $servidor="localhost";
     $usuario="root";
-    $senha="";
+    $senha="z)O0bqenFQ<EVcf4";
     $dbname="mensagens";
 
     $conexao=mysqli_connect($servidor, $usuario, $senha, $dbname);

@@ -28,6 +28,7 @@ $(document).ready(function(){
         loop:true
     });
 
+    
     $('.menu-btn').click(function(){
         $('.navbar .menu').toggleClass("active");
         $('.menu-btn i').toggleClass("active");
